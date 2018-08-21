@@ -1,0 +1,7 @@
+{
+  "setupKeys": {
+    "rox": "5b7bd8f2ab4b8c65d8536865",
+    "launchDarkly": "sdk-906466dd-3cab-42ff-b574-63408fb13b00"
+  },
+  "provider": "launchDarkly"
+}

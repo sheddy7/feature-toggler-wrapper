@@ -1,0 +1,17 @@
+{
+  "name": "feature-toggle-wrapper",
+  "version": "1.0.0",
+  "description": "Wraps feature toggle library",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simon.blake@fuseuniversal.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ldclient-node": "^5.2.0",
+    "nodemon": "^1.18.3",
+    "rox-node": "^4.1.1"
+  }
+}
